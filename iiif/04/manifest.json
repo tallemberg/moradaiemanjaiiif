@@ -1,6 +1,6 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "http://morada-dadosiiif.vercel.app/04/manifest.json",
+    "@context": "https://iiif.io/api/presentation/3/context.json",
+    "id": "https://morada-dadosiiif.vercel.app/04/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -33,10 +33,10 @@
             }
         }
     ],
-    "rights": "http://rightsstatements.org/page/CNE/1.0/",
+    "rights": "https://rightsstatements.org/page/CNE/1.0/",
     "thumbnail": [
         {
-            "id": "http://morada-dadosiiif.vercel.app/04/df611449abe5df0ac8f7dc1e8d3ce49e/full/300,169/0/default.jpg",
+            "id": "https://morada-dadosiiif.vercel.app/04/df611449abe5df0ac8f7dc1e8d3ce49e/full/300,169/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 169,
@@ -49,38 +49,38 @@
             "format": "text/html",
             "label": {
                 "none": [
-                    "http://github.com/tallemberg/moradaiemanjaiiif.git"
+                    "https://github.com/tallemberg/moradaiemanjaiiif.git"
                 ]
             }
         }
     ],
     "items": [
         {
-            "id": "http://morada-dadosiiif.vercel.app/04/canvas/0",
+            "id": "https://morada-dadosiiif.vercel.app/04/canvas/0",
             "type": "Canvas",
             "height": 540,
             "width": 960,
             "items": [
                 {
-                    "id": "http://morada-dadosiiif.vercel.app/04/canvas/0/annotation-page",
+                    "id": "https://morada-dadosiiif.vercel.app/04/canvas/0/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "http://morada-dadosiiif.vercel.app/04/annotation/0",
+                            "id": "https://morada-dadosiiif.vercel.app/04/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "http://morada-dadosiiif.vercel.app/04/canvas/0",
+                            "target": "https://morada-dadosiiif.vercel.app/04/canvas/0",
                             "body": {
-                                "id": "http://morada-dadosiiif.vercel.app/04/df611449abe5df0ac8f7dc1e8d3ce49e/full/2000,1125/0/default.jpg",
+                                "id": "https://morada-dadosiiif.vercel.app/04/df611449abe5df0ac8f7dc1e8d3ce49e/full/2000,1125/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1125,
                                 "width": 2000,
                                 "service": [
                                     {
-                                        "id": "http://morada-dadosiiif.vercel.app/04/df611449abe5df0ac8f7dc1e8d3ce49e",
+                                        "id": "https://morada-dadosiiif.vercel.app/04/df611449abe5df0ac8f7dc1e8d3ce49e",
                                         "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                        "profile": "https://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
