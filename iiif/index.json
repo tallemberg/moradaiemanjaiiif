@@ -9,7 +9,7 @@
     },
     "thumbnail": [
         {
-            "id": "https://morada-dadosiiif.vercel.app/01/3bf1000793203a64cc928df21958144e/full/300,300/0/default.jpg",
+            "id": "http://morada-dadosiiif.vercel.app/01/3bf1000793203a64cc928df21958144e/full/300,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -27,7 +27,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -36,7 +36,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -45,7 +45,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -54,7 +54,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -63,7 +63,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -72,7 +72,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -81,7 +81,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -90,7 +90,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -99,7 +99,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -108,7 +108,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -117,7 +117,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -126,7 +126,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -135,7 +135,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -144,7 +144,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -153,7 +153,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -162,7 +162,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -171,7 +171,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/03.1/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/03.1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -180,7 +180,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/04/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/04/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -189,7 +189,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/05/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/05/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -198,7 +198,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/06/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/06/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -207,7 +207,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/07/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/07/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -216,7 +216,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/08/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/08/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -225,7 +225,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/09/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/09/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -234,7 +234,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/10/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/10/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -243,7 +243,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/11/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/11/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -252,7 +252,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/12/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/12/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -261,7 +261,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/13-de-agosto2012.4/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/13-de-agosto2012.4/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -270,7 +270,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/14/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/14/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -279,7 +279,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/15/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/15/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -288,7 +288,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/16de-agosto2012/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/16de-agosto2012/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -297,7 +297,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/17/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/17/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -306,7 +306,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/18/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/18/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -315,7 +315,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/19/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/19/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -324,7 +324,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/20/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/20/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -333,7 +333,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/21/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/21/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -342,7 +342,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/22/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/22/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -351,7 +351,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/23/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/23/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -360,7 +360,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/23.1/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/23.1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -369,7 +369,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/24/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/24/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -378,7 +378,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/25/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/25/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -387,7 +387,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/26/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/26/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -396,7 +396,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/27/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/27/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -405,7 +405,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/28/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/28/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -414,7 +414,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/29/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/29/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -423,7 +423,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/30/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/30/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -432,7 +432,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/31/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/31/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -441,7 +441,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/32/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/32/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -450,7 +450,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/33/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/33/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -459,7 +459,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/34/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/34/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -468,7 +468,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/35.1/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/35.1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -477,7 +477,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/35.1/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/35.1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -486,7 +486,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/36/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/36/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -495,7 +495,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/36.1/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/36.1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -504,7 +504,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/36.2/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/36.2/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -513,7 +513,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/36.3/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/36.3/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -522,7 +522,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/37/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/37/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -531,7 +531,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/38/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/38/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -540,7 +540,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/39/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/39/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -549,7 +549,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/40/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/40/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -558,7 +558,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/41/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/41/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -567,7 +567,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/42/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/42/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -576,7 +576,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/43/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/43/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -585,7 +585,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/43.1/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/43.1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -594,7 +594,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/44/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/44/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -603,7 +603,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/45/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/45/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -612,7 +612,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/46/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/46/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -621,7 +621,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/47/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/47/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -630,7 +630,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -639,7 +639,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -648,7 +648,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -657,7 +657,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -666,7 +666,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -675,7 +675,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -684,7 +684,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -693,7 +693,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -702,7 +702,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -711,7 +711,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -720,7 +720,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -729,7 +729,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -738,7 +738,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -747,7 +747,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -756,7 +756,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -765,7 +765,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -774,7 +774,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -783,7 +783,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -792,7 +792,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -801,7 +801,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -810,7 +810,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -819,7 +819,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -828,7 +828,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -837,7 +837,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -846,7 +846,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -855,7 +855,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -864,7 +864,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -873,7 +873,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -882,7 +882,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -891,7 +891,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -900,7 +900,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -909,7 +909,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -918,7 +918,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -927,7 +927,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -936,7 +936,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -945,7 +945,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -954,7 +954,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -963,7 +963,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -972,7 +972,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -981,7 +981,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -990,7 +990,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -999,7 +999,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1008,7 +1008,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1017,7 +1017,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1026,7 +1026,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1035,7 +1035,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1044,7 +1044,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1053,7 +1053,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1062,7 +1062,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1071,7 +1071,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1080,7 +1080,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1089,7 +1089,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1098,7 +1098,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1107,7 +1107,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1116,7 +1116,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1125,7 +1125,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1134,7 +1134,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1143,7 +1143,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1152,7 +1152,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1161,7 +1161,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1170,7 +1170,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1179,7 +1179,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1188,7 +1188,7 @@
             }
         },
         {
-            "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/morada/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [

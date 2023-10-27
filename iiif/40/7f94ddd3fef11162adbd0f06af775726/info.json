@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "https://morada-dadosiiif.vercel.app/40/7f94ddd3fef11162adbd0f06af775726",
+  "id": "http://morada-dadosiiif.vercel.app/40/7f94ddd3fef11162adbd0f06af775726",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "http://iiif.io/api/image",
