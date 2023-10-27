@@ -1,5 +1,5 @@
 {
-    "@context": "https://iiif.io/api/presentation/3/context.json",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://morada-dadosiiif.vercel.app/morada/manifest.json",
     "type": "Manifest",
     "label": {
@@ -68,7 +68,7 @@
                                     {
                                         "id": "https://morada-dadosiiif.vercel.app/morada/ce4922f42a8fb25a48dbba7fc1ddf50c",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
