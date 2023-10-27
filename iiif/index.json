@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://morada-dadosiiif.vercel.app/index.json",
+    "id": "http://morada-dadosiiif.vercel.app/index.json",
     "type": "Collection",
     "label": {
         "none": [
@@ -18,7 +18,7 @@
     ],
     "items": [
         {
-            "id": "https://morada-dadosiiif.vercel.app/01/manifest.json",
+            "id": "http://morada-dadosiiif.vercel.app/01/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
